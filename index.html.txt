@@ -5,6 +5,6 @@
 </a>
 </body>
 <p>
-Click on the image to be taken to the Yahoo search engine.
+Click on the image to be taken to the search engine.
 </p>
 </html>
